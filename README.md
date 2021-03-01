@@ -2,7 +2,7 @@
 Basic C program to practice dynamic memory management
 
 
-Authors:
+- Authors:
 
 ÁLVARO MERINO ARGUMANEZ
 
